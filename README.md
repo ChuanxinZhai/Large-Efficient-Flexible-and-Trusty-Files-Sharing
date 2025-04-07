@@ -1,6 +1,6 @@
 # Large-Efficient-Flexible-and-Trusty-Files-Sharing
 
-Using Python Socket network programming to design and implement a Large Efficient Flexible and Trusty (LEFT) Files Sharing program
+Using **Python** Socket network programming to design and implement a Large Efficient Flexible and Trusty (LEFT) Files Sharing program
 
 ### Requirements:
 
